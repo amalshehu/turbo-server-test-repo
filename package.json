@@ -1,0 +1,15 @@
+{
+  "name": "turbo-server-test-repo",
+  "version": "1.0.0",
+  "description": "Test application for turbo server",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --experimental-modules main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\t"
+  },
+  "author": "Amal Shehu",
+  "license": "MIT"
+}
