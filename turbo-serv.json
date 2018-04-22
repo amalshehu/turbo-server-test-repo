@@ -3,11 +3,11 @@
         "dir": "public"
     },
     "session": {
-        "store": "memory",
+        "store": "mongo",
         "options": {
             "host": "127.0.0.1",
-            "port": 6379,
-            "expire": 120
+            "port": 27017,
+            "expire": 3
         }
     }
 }
